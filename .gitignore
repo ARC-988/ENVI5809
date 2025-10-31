@@ -1,0 +1,28 @@
+# --- Python cache & virtual environments ---
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+*.env
+
+# --- Jupyter notebooks ---
+.ipynb_checkpoints/
+
+# --- Large or raw data (not for GitHub) ---
+raw_data/wave_hindcast_raw/
+raw_data/ERA5/
+raw_data/tmp/
+*.nc~
+*.tmp
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Figures / results you regenerate ---
+outputs/
+figures/
