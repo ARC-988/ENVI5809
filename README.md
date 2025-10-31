@@ -26,10 +26,15 @@ Cyclone Alfred (Feb–Mar 2025) generated spatially variable wave energy across 
 
 ## **Data Resources**
 
-- **CSIRO Hindcast Dataset** — Modelled wave conditions for the Capricorn Bunker region (NetCDF)  
+- **CSIRO Hindcast Dataset** — Modelled wave conditions for the Capricorn Bunker region (NetCDF)
 - **NSW Government Wave Buoy (OTI)** — Observed nearshore wave parameters at One Tree Island (CSV)  
 - **BOM IBTrACS Cyclone Alfred Track** — Cyclone path, wind, and pressure data (NetCDF)  
 - **ERA5 (CDAIP)** — Local wind speed and sea-level pressure reanalysis data (NetCDF)
+
+## Data Access
+The full CSIRO wave hindcast dataset (~2000 NetCDF files) is not included in this repository due to size limits.  
+It can be accessed from [OneDrive Link]([https://unisydneyedu-my.sharepoint.com/:f:/g/personal/acou4957_uni_sydney_edu_au/EqC5tk6YgSlMtblj4X7Ew1sB1J5Ic4gIMWHIjEcP_i27Tg?e=YhMC4Y]).  
+Place the folder in `raw_data/wave_hindcast_raw/` before running the notebooks.
 
 ---
 
