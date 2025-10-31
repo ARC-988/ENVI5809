@@ -35,6 +35,7 @@ Cyclone Alfred (Feb–Mar 2025) generated spatially variable wave energy across 
 The full **CSIRO wave hindcast dataset** (~2000 NetCDF files) is **not included** in this repository due to size limits.  
 It can be accessed from the [OneDrive link](https://unisydneyedu-my.sharepoint.com/:f:/g/personal/acou4957_uni_sydney_edu_au/EqC5tk6YgSlMtblj4X7Ew1sB1J5Ic4gIMWHIjEcP_i27Tg?e=YhMC4Y).  
 Place the folder in `raw_data/wave_hindcast_raw/` before running the notebooks.
+Alternatively, the CSIRO wave hindcast point dataset for the first 6 notebooks can be found [here](https://1drv.ms/f/c/29f1c8a4c5169163/EpDrNoF5uANEiZVgKJDIW_MBfFKY__JB3IpDwVaqGHt9gQ?e=hbfTcH)
 
 ---
 
